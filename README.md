@@ -40,7 +40,18 @@ python -m venv venv
 venv\Scripts\activate     # On Windows
 
 ~ Install required packages:
-pip install -r requirements.txt
+pip install the following in your terminal
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+statsmodels
+prophet
+tensorflow
+keras
+streamlit
 
 ~ Run the Streamlit app:
 streamlit run App.py
