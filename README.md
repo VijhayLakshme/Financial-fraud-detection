@@ -1,3 +1,5 @@
+# Stock Market Forecasting
+
 📈 Stock Market Forecasting
 An interactive Streamlit dashboard for analyzing and forecasting stock prices using classical time series models (ARIMA, SARIMA, Prophet) and deep learning (LSTM). This tool supports real-time data fetching from Yahoo Finance or CSV uploads and provides intuitive visualizations with accuracy metrics for effective decision-making.
 
